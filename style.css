@@ -1,0 +1,35 @@
+body{
+    background-color: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.key{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    background-color: white;
+    padding: 20px 40px;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(255, 140, 0);
+    margin-bottom: 20x;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.small{
+    width: 160px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   border: 2px solid;
+ font-size: 17px;
+background-color: rgb(255, 194, 120);
+font-family:Georgia, 'Times New Roman', Times, serif;
+border-radius: 4px;
+}
